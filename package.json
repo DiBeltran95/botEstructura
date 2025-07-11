@@ -2,9 +2,9 @@
   "name": "whatsapp-api",
   "version": "1.0.0",
   "description": "Bot de WhatsApp usando Baileys",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
